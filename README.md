@@ -62,5 +62,4 @@ _This program focuses on developing practical skills in AI using tools like **IB
 
 ---
 
-_I'm excited to share my learning journey here. Please feel free to explore the code, and if you have any questions or feedback, don't hesitate to reach out._
-**Happy coding! ✨**
+_I'm excited to share my learning journey here. Please feel free to explore the code, and if you have any questions or feedback, don't hesitate to reach out._ \*_Happy coding! ✨_
