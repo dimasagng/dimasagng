@@ -1,8 +1,8 @@
 ![header banner](img3/github-header-banner.png)
 
-#### Welcome to my GitHub repository. I'm currently actively participating in two awesome courses: AWS re/Start and the HACKTIV8 Student Developer Initiative with IBM.
-
 ---
+
+#### Welcome to my GitHub repository. I'm currently actively participating in two awesome courses: AWS re/Start and the HACKTIV8 Student Developer Initiative with IBM.
 
 <!--
 **dimasagng/dimasagng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
