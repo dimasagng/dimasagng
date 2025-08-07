@@ -51,15 +51,12 @@ _This program focuses on developing practical skills in AI using tools like **IB
 
 ---
 
-##### Skills
+##### Language
 
-**Language**
 [![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,python,java)](https://skillicons.dev)
 
 ##### Social Media
 
 ![www.linkedin.com/in/dimas-agung-kurniawan-15b8b3230](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
----
 
 _I'm excited to share my learning journey here. Please feel free to explore the code, and if you have any questions or feedback, don't hesitate to reach out._ \*_Happy coding! ✨_
