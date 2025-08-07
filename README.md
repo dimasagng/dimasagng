@@ -1,4 +1,6 @@
-# Hello there! 👋 Welcome to my GitHub repository. This space is a dedicated collection of projects and notes from my learning journey in cloud computing and generative AI. I'm actively participating in two fantastic courses: AWS re/Start and HACKTIV8's Student Developer Initiative with IBM.
+![header banner](img3/github-header-banner.png)
+
+#### Welcome to my GitHub repository. I'm currently actively participating in two awesome courses: AWS re/Start and the HACKTIV8 Student Developer Initiative with IBM.
 
 ---
 
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ☁️ AWS re/Start - Cloud Career Program (Batch 12)
+##### ☁️ AWS re/Start - Cloud Career Program (Batch 12)
 
 ![AWS re/Start](img/AWSreStart.jpg)
 _Hosted by [**Orbit Future Academy**](https://www.instagram.com/orbitfutureacademyid?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) in collaboration with AWS._
@@ -33,7 +35,7 @@ _Hosted by [**Orbit Future Academy**](https://www.instagram.com/orbitfutureacade
 
 ---
 
-## 🤖 Generative AI Student Developer Initiative In collaboration with Hacktiv8 & IBM SkillsBuild.
+##### 🤖 Generative AI Student Developer Initiative In collaboration with Hacktiv8 & IBM SkillsBuild.
 
 ![Hacktiv8 IBM SkillsBuild](img2/Hacktiv8.jpg)
 
@@ -46,6 +48,17 @@ _This program focuses on developing practical skills in AI using tools like **IB
 - Prompt Engineering
 - Code Generation
 - Performance Optimization
+
+---
+
+##### Skills
+
+**Language**
+[![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,python,java)](https://skillicons.dev)
+
+##### Social Media
+
+![www.linkedin.com/in/dimas-agung-kurniawan-15b8b3230](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
