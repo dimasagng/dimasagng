@@ -1,7 +1,7 @@
 ![header banner](img3/github-header-banner.png)
 
 ---
-
+<!--
 #### Welcome to my GitHub repository. I'm currently actively participating in two awesome courses: AWS re/Start and the HACKTIV8 Student Developer Initiative with IBM.
 
 <!--
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ##### ☁️ AWS re/Start - Cloud Career Program (Batch 12)
 
 ![AWS re/Start](img/AWSreStart.jpg)
@@ -50,6 +51,7 @@ _This program focuses on developing practical skills in AI using tools like **IB
 - Performance Optimization
 
 ---
+-->
 
 ##### Language
 
