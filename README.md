@@ -1,4 +1,4 @@
-![header banner](img3/github-header-banner.png)
+![header banner](img3/github-header-banner2.png)
 
 ---
 <!--
